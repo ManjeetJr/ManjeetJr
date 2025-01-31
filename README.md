@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on unreal engine<br>👯 I’m looking to collaborate on game development<br>🤝 I’m looking for help with game dev<br>🌱 I’m currently learning python, go<br>💬 Ask me about games<br>⚡ Fun fact "i played more than 150 games "
+🔭 I’m currently working on unreal engine<br>👯 I’m looking to collaborate on game development<br>🤝 I’m looking for help with game dev<br>🌱 I’m currently learning python, pygame<br>💬 Ask me about games<br>⚡ Fun fact "i played more than 150 games "
 
 
 ## 🌐 Socials:
