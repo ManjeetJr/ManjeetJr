@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manjeet Dhiman (aka Junior)
+# Hello there, I'm Manjeet Dhiman
 
 🎮 **Game Developer | Unreal Engine Enthusiast | Creative Programmer**
 
